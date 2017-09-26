@@ -4,5 +4,10 @@ Euclid's Algorithm!
 
 Works with int values
 
-Initial commit, including source, Javadocs, Manifest.
+Uses modular division(instead of classical form).
+
+[JavaDoc](docs.index.html)
+
+
+
 
