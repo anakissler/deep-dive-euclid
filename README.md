@@ -1,4 +1,4 @@
-##Euclid's Algorithm!
+#Euclid's Algorithm!
 
 Works with int values
 
