@@ -3,7 +3,7 @@ package edu.cnm.deepdive.algorithms;
 /** Implements the classic Euclid algorithm for finding the GCD of 2 integers.  When run as
  * a Java application, the input values are read from the command line arguments.
  *
- * @author Ana Kistner
+ 
  */
 public class Euclid {
   /** format string used for display of input values and GCD. */
